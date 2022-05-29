@@ -32,7 +32,10 @@ Implementation of fundamental graph algorithms in C. Work from CS discipline wit
 3. if you are using `gcc` press 0, for `clang` press 1;
 - Everything should works fine from here.
 
-> Tip: If you want to debug the project, you can use a tool like `gdb`, and use it with an IDE like
+> **Note**
+> 
+> Tip:
+> If you want to debug the project, you can use a tool like `gdb`, and use it with an IDE like
 > VsCode.
 
 ### Windows
